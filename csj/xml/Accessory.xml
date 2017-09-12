@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProductCatalog>
+    <product productId="1">
+        <parentProductId>1</parentProductId>
+        <brandName>Samsung</brandName>
+        <model>Earphones</model>
+        <price>10.45</price>
+        <discount>0.0</discount>
+        <rebate>8.0</rebate>
+        <quantity>2</quantity>
+        <imageName>earphone.jpg</imageName>
+        <type>phone</type>
+    </product>
+    <product productId="2">
+        <parentProductId>1</parentProductId>
+        <brandName>Samsung</brandName>
+        <model>Charger</model>
+        <price>6.99</price>
+        <discount>0</discount>
+        <rebate>5.0</rebate>
+        <quantity>2</quantity>
+        <imageName>charger.jpg</imageName>
+        <type>phone</type>
+    </product>
+    </ProductCatalog>
